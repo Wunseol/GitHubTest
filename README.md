@@ -1,1 +1,1 @@
-# text1
+这是一个GitHub的使用教程，用于帮助自己上手GitHub
