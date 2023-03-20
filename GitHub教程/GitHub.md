@@ -1,5 +1,5 @@
 
-![](images/2023-03-14-23-58-56.png)
+![https://github.com/Wunsuol/text1/blob/main/GitHub%E6%95%99%E7%A8%8B/images/2023-03-14-23-58-56.png](images/2023-03-14-23-58-56.png)
 ![](images/2023-03-14-23-59-27.png)
 ![](images/2023-03-14-23-59-33.png)
 ![](images/2023-03-14-23-59-40.png)
