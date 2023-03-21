@@ -13,7 +13,7 @@ Code -> Download ZIP
 
 版本管理功能，写一堆垃圾代码没法用回退版本
 
-# 2.Github搜索资源
+# 2.Github搜索资源：
 
 直接Search
 
